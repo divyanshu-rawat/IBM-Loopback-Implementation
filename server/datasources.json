@@ -2,5 +2,15 @@
   "db": {
     "name": "db",
     "connector": "memory"
+  },
+  "MongoDB": {
+    "host": "",
+    "port": 0,
+    "url": "mongodb://divyanshu:divyanshu@ds145178.mlab.com:45178/myloopback",
+    "database": "",
+    "password": "",
+    "name": "MongoDB",
+    "user": "",
+    "connector": "mongodb"
   }
 }
