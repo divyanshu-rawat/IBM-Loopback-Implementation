@@ -23,6 +23,8 @@ StrongLoop is now IBM API Connect.
 
 * Make sure to use sudo if you are installing on OS X or Linux machines.
 
+### I have already implemented BASS 
+
 ### Scaffolding Out a Loopback Application (if you want to create a New application follow below-mentioned steps)
 
 * At a convenient location on your computer, type the following at the prompt to scaffold out a Loopback application:
@@ -38,4 +40,16 @@ StrongLoop is now IBM API Connect.
 ```javascript
       slc loopback:model
 ```
+
+### To Start The Server
+* Start the server by typing at the prompt:
+  
+```javascript
+      node .
+```
+
+* Explore the REST API supported by the server.
+
+
+
 
