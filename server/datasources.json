@@ -4,10 +4,9 @@
     "connector": "memory"
   },
   "MongoDB": {
-    "host": "",
-    "port": 0,
-    "url": "mongodb://divyanshu:divyanshu@ds145178.mlab.com:45178/myloopback",
-    "database": "",
+    "host": "localhost",
+    "port": "27017",
+    "database": "conFusion",
     "password": "",
     "name": "MongoDB",
     "user": "",
