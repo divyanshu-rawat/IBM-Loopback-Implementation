@@ -23,7 +23,7 @@ StrongLoop is now IBM API Connect.
 
 * Make sure to use sudo if you are installing on OS X or Linux machines.
 
-### I have already implemented BASS 
+#### this repo. is actually example of IBM Loopback but if you want to create you own server side implementation follow below      mentioned steps !
 
 ### Scaffolding Out a Loopback Application (if you want to create a New application follow below-mentioned steps)
 
