@@ -50,6 +50,14 @@ StrongLoop is now IBM API Connect.
 
 * Explore the REST API supported by the server.
 
+#### For more info. follow below mentioned Links !!
+
+[Loopback Documentation](http://apidocs.strongloop.com/).
+
+#### To know more about BASS follow below mentioned Links !!
+
+[Mobile backend as a service](https://en.wikipedia.org/wiki/Mobile_backend_as_a_service).
+
 
 
 
